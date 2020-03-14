@@ -46,7 +46,7 @@ java -cp /opt/datawarehouse/softwares/log-collection-1.0-SNAPSHOT-jar-with-depen
 [root@cdh2 logs]# ls
 app-2020-03-15.log
 
-5.集群日志生成启动脚本
+6.集群日志生成启动脚本
 (1）在/opt/datawarehouse/sh目录下创建脚本lg.sh
 [root@cdh3 sh]# cd /opt/datawarehouse/sh
 [root@cdh3 sh]# vi lg.sh
